@@ -1,2 +1,4 @@
 # MachineLearning
-Machine Learning class. CU Denver
+Machine Learning class.
+CU Denver
+Assignments 
